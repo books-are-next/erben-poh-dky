@@ -1,0 +1,643 @@
+{
+  "author": "Pohádky",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "pohadky-karel-jaromir-erben-be1b211",
+  "languagecode": "cs",
+  "modified": "2022-03-17T12:58:15.729Z",
+  "publishershort": "mkp",
+  "title": "Karel Jaromír Erben",
+  "revision": "be1b211",
+  "generatedAt": {
+    "date": "Thu Mar 17 2022 13:09:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647522563576
+  },
+  "documents": [
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0004.html",
+      "words": 2048,
+      "chars": 11382,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Zlatovláska.",
+          "id": "zlatovláska",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0005.html",
+      "words": 2942,
+      "chars": 16426,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Dlouhý, Široký a Bystrozraký.",
+          "id": "dlouhý-široký-anbspbystrozraký",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0006.html",
+      "words": 2460,
+      "chars": 13544,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Tři zlaté vlasy Děda-Vševěda.",
+          "id": "tři-zlaté-vlasy-děda-vševěda",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0007.html",
+      "words": 914,
+      "chars": 5146,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Jezinky.",
+          "id": "jezinky",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0008.html",
+      "words": 832,
+      "chars": 4658,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Červená Karkulka.",
+          "id": "červená-karkulka",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0009.html",
+      "words": 1183,
+      "chars": 6607,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Obuchu, hýbej se!",
+          "id": "obuchu-hýbej-se",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0010.html",
+      "words": 665,
+      "chars": 3454,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "O hloupém vlkovi.",
+          "id": "onbsphloupém-vlkovi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0011.html",
+      "words": 1667,
+      "chars": 9042,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "O hloupém Peciválovi.",
+          "id": "onbsphloupém-peciválovi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0012.html",
+      "words": 811,
+      "chars": 4462,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Bůh ví, čím člověka trestati.",
+          "id": "bůh-ví-čím-člověka-trestati",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0013.html",
+      "words": 396,
+      "chars": 2186,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Dobré děti.",
+          "id": "dobré-děti",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0014.html",
+      "words": 917,
+      "chars": 4762,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Čert a Cigán.",
+          "id": "čert-anbspcigán",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0015.html",
+      "words": 841,
+      "chars": 4578,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Špalíček.",
+          "id": "špalíček",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0016.html",
+      "words": 622,
+      "chars": 3412,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Štěstí a neštěstí.",
+          "id": "štěstí-anbspneštěstí",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0017.html",
+      "words": 596,
+      "chars": 3220,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Pohádka o bídě jednooké.",
+          "id": "pohádka-onbspbídě-jednooké",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0018.html",
+      "words": 715,
+      "chars": 4224,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Lipka.",
+          "id": "lipka",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0019.html",
+      "words": 2621,
+      "chars": 14737,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "O Ivanovi hlupci.",
+          "id": "onbspivanovi-hlupci",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0020.html",
+      "words": 955,
+      "chars": 5623,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Ilja Muromec a Slavík loupežník.",
+          "id": "ilja-muromec-anbspslavík-loupežník",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0021.html",
+      "words": 830,
+      "chars": 4754,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Sněhurka.",
+          "id": "sněhurka",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0022.html",
+      "words": 2007,
+      "chars": 11619,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "O žabce královně.",
+          "id": "onbspžabce-královně",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0023.html",
+      "words": 1146,
+      "chars": 6512,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "O třech královicích.",
+          "id": "onbsptřech-královicích",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0024.html",
+      "words": 938,
+      "chars": 5101,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Kurent a člověk.",
+          "id": "kurent-anbspčlověk",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karel Jaromír Erben",
+      "file": "section0025.html",
+      "words": 300,
+      "chars": 1519,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0024.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Hadí koruna.",
+          "id": "hadí-koruna",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Karel Jaromír Erben",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 983,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0025.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 26548,
+      "chars": 147988,
+      "ideas": 251
+    },
+    "chapters": {
+      "words": 26406,
+      "chars": 146968,
+      "ideas": 231
+    }
+  }
+}
