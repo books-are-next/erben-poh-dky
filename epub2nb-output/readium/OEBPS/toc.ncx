@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="f4319b3c-059e-47c8-8453-d2b6abc9ddab"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Karel Jaromír Erben</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Zlatovláska.</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Dlouhý, Široký a Bystrozraký.</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Tři zlaté vlasy Děda-Vševěda.</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Jezinky.</text>
+            </navLabel>
+            <content src="Text/Section0007.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Červená Karkulka.</text>
+            </navLabel>
+            <content src="Text/Section0008.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Obuchu, hýbej se!</text>
+            </navLabel>
+            <content src="Text/Section0009.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>O hloupém vlkovi.</text>
+            </navLabel>
+            <content src="Text/Section0010.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>O hloupém Peciválovi.</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Bůh ví, čím člověka trestati.</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Dobré děti.</text>
+            </navLabel>
+            <content src="Text/Section0013.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Čert a Cigán.</text>
+            </navLabel>
+            <content src="Text/Section0014.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Špalíček.</text>
+            </navLabel>
+            <content src="Text/Section0015.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Štěstí a neštěstí.</text>
+            </navLabel>
+            <content src="Text/Section0016.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Pohádka o bídě jednooké.</text>
+            </navLabel>
+            <content src="Text/Section0017.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Lipka.</text>
+            </navLabel>
+            <content src="Text/Section0018.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>O Ivanovi hlupci.</text>
+            </navLabel>
+            <content src="Text/Section0019.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Ilja Muromec a Slavík loupežník.</text>
+            </navLabel>
+            <content src="Text/Section0020.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Sněhurka.</text>
+            </navLabel>
+            <content src="Text/Section0021.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>O žabce královně.</text>
+            </navLabel>
+            <content src="Text/Section0022.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>O třech královicích.</text>
+            </navLabel>
+            <content src="Text/Section0023.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>Kurent a člověk.</text>
+            </navLabel>
+            <content src="Text/Section0024.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>Hadí koruna.</text>
+            </navLabel>
+            <content src="Text/Section0025.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,203 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Karel Jaromír Erben",
+      "identifier": "f4319b3c-059e-47c8-8453-d2b6abc9ddab",
+      "author": "Pohádky",
+      "modified": "2022-03-17T12:58:15.729Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0001.md",
+        "xhtml": "Section0001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0002.md",
+        "xhtml": "Section0002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0003.md",
+        "xhtml": "Section0003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0004.md",
+        "xhtml": "Section0004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0005.md",
+        "xhtml": "Section0005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0006.md",
+        "xhtml": "Section0006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0007.md",
+        "xhtml": "Section0007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0008.md",
+        "xhtml": "Section0008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0009.md",
+        "xhtml": "Section0009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0010.md",
+        "xhtml": "Section0010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0011.md",
+        "xhtml": "Section0011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0012.md",
+        "xhtml": "Section0012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0013.md",
+        "xhtml": "Section0013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0014.md",
+        "xhtml": "Section0014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0015.md",
+        "xhtml": "Section0015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0016.md",
+        "xhtml": "Section0016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0017.md",
+        "xhtml": "Section0017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0018.md",
+        "xhtml": "Section0018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0019.md",
+        "xhtml": "Section0019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0020.md",
+        "xhtml": "Section0020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0021.md",
+        "xhtml": "Section0021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0022.md",
+        "xhtml": "Section0022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0023.md",
+        "xhtml": "Section0023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0024.md",
+        "xhtml": "Section0024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0025.md",
+        "xhtml": "Section0025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0026.md",
+        "xhtml": "Section0026.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_pohadky.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/pd-88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "sgc-1",
+      "sgc-2",
+      "sgc-3",
+      "sgc-4",
+      "sgc-5",
+      "sigilChapterBreak"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "erben-poh-dky"
+    },
+    "generatedAt": 1647521895932
+  }
+}

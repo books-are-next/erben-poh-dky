@@ -1,0 +1,230 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Karel Jaromír Erben",
+    "identifier": "f4319b3c-059e-47c8-8453-d2b6abc9ddab",
+    "author": "Pohádky",
+    "language": "cs",
+    "modified": "2022-03-17T12:58:15.729Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_pohadky.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Zlatovláska.",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "Dlouhý, Široký a Bystrozraký.",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "Tři zlaté vlasy Děda-Vševěda.",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "Jezinky.",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "Červená Karkulka.",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "Obuchu, hýbej se!",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "O hloupém vlkovi.",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "O hloupém Peciválovi.",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "Bůh ví, čím člověka trestati.",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "title": "Dobré děti.",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "title": "Čert a Cigán.",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "title": "Špalíček.",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "title": "Štěstí a neštěstí.",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "title": "Pohádka o bídě jednooké.",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "title": "Lipka.",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "O Ivanovi hlupci.",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "title": "Ilja Muromec a Slavík loupežník.",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "title": "Sněhurka.",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "title": "O žabce královně.",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "title": "O třech královicích.",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "title": "Kurent a člověk.",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "title": "Hadí koruna.",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    }
+  ]
+}
