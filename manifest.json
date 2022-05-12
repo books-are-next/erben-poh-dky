@@ -7,9 +7,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pohadky-karel-jaromir-erben-ebc3b33",
-  "revision": "ebc3b33",
+  "identifier": "pohadky-karel-jaromir-erben-57b1f85",
+  "revision": "57b1f85",
   "readingOrder": [
+    "promo.html",
     "section0004.html",
     "section0005.html",
     "section0006.html",
@@ -35,10 +36,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352036685
+    "date": "Thu May 12 2022 15:12:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368376261
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0004.html",
+      "toc": []
+    },
     {
       "title": "Karel Jaromír Erben",
       "file": "section0004.html",
@@ -46,8 +59,8 @@
       "chars": 11382,
       "ideas": 15,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "section0005.html",
       "toc": [
         {
@@ -73,7 +86,7 @@
       "chars": 16426,
       "ideas": 57,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "section0004.html",
       "next": "section0006.html",
       "toc": [
@@ -100,7 +113,7 @@
       "chars": 13544,
       "ideas": 25,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "section0005.html",
       "next": "section0007.html",
       "toc": [
@@ -127,7 +140,7 @@
       "chars": 5146,
       "ideas": 3,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "section0006.html",
       "next": "section0008.html",
       "toc": [
@@ -154,7 +167,7 @@
       "chars": 4658,
       "ideas": 8,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "section0007.html",
       "next": "section0009.html",
       "toc": [
@@ -181,7 +194,7 @@
       "chars": 6607,
       "ideas": 3,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "section0008.html",
       "next": "section0010.html",
       "toc": [
@@ -208,7 +221,7 @@
       "chars": 3454,
       "ideas": 2,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "section0009.html",
       "next": "section0011.html",
       "toc": [
@@ -235,7 +248,7 @@
       "chars": 9042,
       "ideas": 59,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "section0010.html",
       "next": "section0012.html",
       "toc": [
@@ -262,7 +275,7 @@
       "chars": 4462,
       "ideas": 4,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "section0011.html",
       "next": "section0013.html",
       "toc": [
@@ -289,7 +302,7 @@
       "chars": 2186,
       "ideas": 2,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "section0012.html",
       "next": "section0014.html",
       "toc": [
@@ -316,7 +329,7 @@
       "chars": 4762,
       "ideas": 2,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "section0013.html",
       "next": "section0015.html",
       "toc": [
@@ -343,7 +356,7 @@
       "chars": 4578,
       "ideas": 18,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "section0014.html",
       "next": "section0016.html",
       "toc": [
@@ -370,7 +383,7 @@
       "chars": 3412,
       "ideas": 3,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "section0015.html",
       "next": "section0017.html",
       "toc": [
@@ -397,7 +410,7 @@
       "chars": 3220,
       "ideas": 2,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "section0016.html",
       "next": "section0018.html",
       "toc": [
@@ -424,7 +437,7 @@
       "chars": 4224,
       "ideas": 7,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "section0017.html",
       "next": "section0019.html",
       "toc": [
@@ -451,7 +464,7 @@
       "chars": 14737,
       "ideas": 6,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "section0018.html",
       "next": "section0020.html",
       "toc": [
@@ -478,7 +491,7 @@
       "chars": 5623,
       "ideas": 2,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "section0019.html",
       "next": "section0021.html",
       "toc": [
@@ -505,7 +518,7 @@
       "chars": 4754,
       "ideas": 2,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "section0020.html",
       "next": "section0022.html",
       "toc": [
@@ -532,7 +545,7 @@
       "chars": 11619,
       "ideas": 3,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "section0021.html",
       "next": "section0023.html",
       "toc": [
@@ -559,7 +572,7 @@
       "chars": 6512,
       "ideas": 3,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "section0022.html",
       "next": "section0024.html",
       "toc": [
@@ -586,7 +599,7 @@
       "chars": 5101,
       "ideas": 3,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "section0023.html",
       "next": "section0025.html",
       "toc": [
@@ -613,7 +626,7 @@
       "chars": 1519,
       "ideas": 2,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "section0024.html",
       "next": "colophon.html",
       "toc": [
