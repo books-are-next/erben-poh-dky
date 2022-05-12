@@ -370,15 +370,13 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
       "title": "Karel Jaromír Erben",
       "identifier": "f4319b3c-059e-47c8-8453-d2b6abc9ddab",
-      "author": "Pohádky",
-      "modified": "2022-03-17T13:08:15.989Z"
+      "author": "Pohádky"
     },
     "chapters": [
       {
@@ -572,6 +570,6 @@
       "user": "books-are-next",
       "repo": "erben-poh-dky"
     },
-    "generatedAt": 1647522496235
+    "generatedAt": 1652351497145
   }
 }

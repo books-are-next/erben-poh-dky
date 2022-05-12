@@ -1,16 +1,42 @@
 {
-  "author": "Pohádky",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "pohadky-karel-jaromir-erben-be1b211",
-  "languagecode": "cs",
-  "modified": "2022-03-17T12:58:15.729Z",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Karel Jaromír Erben",
-  "revision": "be1b211",
+  "author": "Pohádky",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "pohadky-karel-jaromir-erben-ebc3b33",
+  "revision": "ebc3b33",
+  "readingOrder": [
+    "section0004.html",
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "section0011.html",
+    "section0012.html",
+    "section0013.html",
+    "section0014.html",
+    "section0015.html",
+    "section0016.html",
+    "section0017.html",
+    "section0018.html",
+    "section0019.html",
+    "section0020.html",
+    "section0021.html",
+    "section0022.html",
+    "section0023.html",
+    "section0024.html",
+    "section0025.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Mar 17 2022 13:09:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647522563576
+    "date": "Thu May 12 2022 10:40:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352036685
   },
   "documents": [
     {
@@ -608,11 +634,11 @@
       ]
     },
     {
-      "title": "Tiráž • Karel Jaromír Erben",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 983,
-      "ideas": 16,
+      "words": 120,
+      "chars": 850,
+      "ideas": 13,
       "role": "colophon",
       "order": null,
       "prev": "section0025.html",
@@ -630,9 +656,9 @@
   ],
   "totals": {
     "all": {
-      "words": 26548,
-      "chars": 147988,
-      "ideas": 251
+      "words": 26532,
+      "chars": 147855,
+      "ideas": 248
     },
     "chapters": {
       "words": 26406,
