@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 # Dlouhý, Široký a Bystrozraký.
 
 Byl jeden král, a byl už starý a neměl než jednoho syna. Jednou toho syna k sobě povolal a řekl mu: „Můj milý synu! víš dobře, že zralé ovoce opadává, aby udělalo místo jinému. Má hlava už taky dozrává a snad už brzy na ni slunce svítit nebude; ale prvé než mne pochováš, přece bych ještě rád viděl svou budoucí dceru, tvou manželku. Ožeň se, synu můj!“
@@ -65,7 +67,9 @@ A tak potom ubírali se dál. Když přišli blízko k těm skalám, potkali jed
 
 „A co tam dělá moje nevěsta?“
 
-  
+</section>
+
+<section>
 
 „Za železnou mřeží
 
@@ -73,7 +77,9 @@ na vysoké věži
 
 _černokněžník jí střeží._“
 
-  
+</section>
+
+<section>
 
 A královic řekl: „Kdos dobrý, pomoz mi ji vysvobodit!“
 
@@ -120,3 +126,5 @@ A tu hned ta krásná panna promluvila i děkovala královicovi, že ji vysvobod
 Zatím sešlo se mnoho pánů do pokoje, kde byl královic, a všickni mu z vysvobození svého děkovali. Ale on řekl: „Mně nemáte co děkovat; kdyby nebylo mých věrných služebníků Dlouhého, Širokého a Bystrozrakého, byl bych také tím, čím jste byli vy.“ A hned potom vydal se na cestu domů k otci, starému králi, se svou nevěstou a se svými služebníky, Dlouhým a Bystrozrakým, a ti všickni páni ho doprovázeli. Na cestě potkali Širokého a vzali ho taky s sebou.
 
 Starý král plakal radosti, že se synovi jeho tak poštěstilo; myslil že už se nevrátí. Brzy potom byla hlučná svatba, trvala tři neděle, všickni páni, co je královic vysvobodil byli pozváni. Když bylo po svatbě, ohlásil se Dlouhý, Široký a Bystrozraký mladému králi, že půjdou zas do světa hledat práci. Mladý král jim domlouval, jen aby u něho zůstalí: „Všecko vám dám co budete do smrti potřebovat, nic nemusíte dělat!“ Ale jim se takové líné živobytí nelíbilo, vzali od něho odpuštění a šli přec, a po tu dobu se někde ve světě potloukají.
+
+</section>

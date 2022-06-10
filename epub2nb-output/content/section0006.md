@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 # Tři zlaté vlasy Děda-Vševěda.
 
 Bylo – nebylo: byl jednou jeden král, který se rád honil po lesích za zvěří. Jednou taky se pustil daleko za jelenem a zabloudil. Byl sám a sám, přišla noc a král byl rád, že našel na mýtině chalupu. Zůstával tam uhlíř. Král povídá, jestli by ho chtěl z lesa na cestu vyvést? že mu dobře zaplatí. – „I rád bych s vámi,“ řekl uhlíř, „ale tu vidíte, žena mi se právě čeká, nemohu odejít. A kam byste taky v noci? lehněte si na půdu na seno, a ráno vás doprovodím.“ – Brzy potom se narodil uhlířovi synáček. Král ležel na půdě, nemohl usnout. O půl noci pozoroval dole ve světnici nějaké světlo. Koukne skulinou ve stropě a tu vidí: uhlíř spal, žena jeho ležela jako ve mdlobách a podle děťátka stály tři staré babičky, celé bílé, každá měla v ruce svíci rozsvícenou. První povídá: „Já tomu chlapci dávám, aby přišel do velikých nebezpečenství.“ – Druhá povídá: „A já mu dávám, aby ze všech šťastně vyvázl a byl dlouho živ.“ – A třetí povídá: „A já mu dávám za ženu tu dcerušku, co se dnes narodila tomu králi, který tu nahoře na seně leží.“ Na to babičky svíce zhasly a bylo zas ticho. Byly to Sudičky.
@@ -52,3 +54,5 @@ Plaváček jel potom dál, a když byl u černého moře, ptal se ho přívozní
 Král ani svým očím nevěřil, když mu Plaváček ty tři zlaté vlasy Děda-Vševěda přinesl, a dcera jeho plakala, ne žalostí, ale radostí, že se zas vrátil. „A kdes těch pěkných koní a toho velikého bohatství nabyl?“ ptal se král, – „Vysloužil jsem si to,“ řekl Plaváček a vypravoval, kterak tomu králi dopomohl zase ke mladicím jab’kam, co ze starých lidí dělají mladé, a tomu králi k živé vodě, co z nemocných dělá zdravé a z mrtvých živé, – „Mladicí jab’ka! živá voda!“ opakoval si potichu král; „kdybych jedno snědl, omládl bych; a kdybych i zemřel, tou vodou bych zas ožil!“ Bez meškání vydal se na cestu pro mladicí jab’ka a pro živou vodu – a potud se ještě nevrátil
 
 A tak se stal uhlířův syn zetěm královým, jak Sudička usoudila, a král – snad ještě pořád tam převáží přes černé moře!
+
+</section>

@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 # Lipka.
 
 Seděl večer Vaňuša s dědečkem, ptal se dědečka: „Proč pak medvědí tlapy jsou podobny našim rukám a nohám?“ Odpověděl mu dědeček: „Poslechni, Vaňušo! Co jsem slýchal od starších lidí, to ti povím. Starší lidé vyprávěli: byli medvědi lidé stejně jako my, pravoslavní křesťané. V jedné vesnici žil jednou chalupník. Domeček měl špatňoučký. Koníčka neměl, o kravičce ani zdání. Dříví neměl. Zima přišla a v netopené chalupě chladno. Chalupník vzal sekyru a hajdy do lesa. I padl mu do očí začarovaný strom Lipka. Udeří do něho sekyrou a začne sekat. A Lipka k němu praví lidským hlasem: „Co chceš, všechno ti dám. Bohatství-li nemáš, ženy-li nemáš, všechno ti dám,“ Sedlák pak pravil: „A dobře, kdybys ty, matičko, mě udělala bohatším, než všichni sedláci; takhle ani krávy nemám, ani koníka, i domeček chatrný!“ Lipka řekla: „Jdi jen domů! Všechno budeš míti!“ Sedlák jde: dům má nový, plot má z břeven. Koně jsou takové, že letět chtějí a špýchar pln obilí. Chalupníkovi scházelo ještě, že ženu měl nehezkou, Co dělat? „No, půjdu k matičce Lipce!“ Vzal sekyru a šel do lesa.
@@ -16,3 +18,5 @@ Přijde k Lipce, udeří jí sekyrou. A ona praví: „Čeho ti, sedláčku, tř
 Přijde, udeří ji sekyrou. Stromek šeptá: „Čeho ti třeba?“ – „Všechno dobré. Děkuju ti za všechno. Ale nemohl-li bych být sám králem?“ Lipka začne ho přemlouvati: „Nerozumný, oč ty prosíš? Pomyslí si, co jsi byl a číms se stal? Z chalupníka stal jsi se vynikajícím a všechno; a car je Bohem vyvolen.“ – Lipka ho přemlouvá všelijak, aby víc neprosil, sice že všechno ztratí. Chalupník si nedal říci, naléhal, aby ho udělala carem. A Lipka mu řekla: „Toho nelze učiniti a nebude toho; i poslední ztratíš.“ A chalupník stále naléhal. A Lipka praví: „Buď tedy medvědem a žena medvědicí.“ A stal se z něho medvěd a z ní medvědice. A tak vznikli medvědi.
 
 A vnouček se ptá: „Dědoušku, je-li to pravda?“ – „To je ovšem bajka; co nemožno, toho si nepřej: málem buď spokojen. Mnohého se ti zachce, poslední ztratíš.“
+
+</section>

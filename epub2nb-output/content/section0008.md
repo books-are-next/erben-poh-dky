@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 # Červená Karkulka.
 
 Jednou bylo malé sličné děvčátko, které každý miloval, jakmile je uviděl, nejraději pak je měla babička; nevěděla, co by jen milému děvčátku z lásky darovala. Jednou mu nadělila čepeček z červeného sametu, a poněvadž mu tak dobře slušel, a ono také nic jiného na hlavě nosit nechtělo, pojmenovali je „Červená karkulka“. Jednou řekla matka Červené karkulce: „Běž, tu máš koláč a láhev vína, dones to babičce, je nemocná a slabá, to ji posilní. Ale bud hodná, neohlížej se po všem, když přijdeš do jizby, a nezapomeň dát „dobrýtro“. Také si dej pozor, cokoliv mluvíš, a na cestu koukej, abys se silnice nesešla, sic upadneš a rozbiješ láhev, a churavá babička by potom nic neměla.“ Červená karkulka odpověděla: „Chci to vše dobře obstaratí,“ a podala mamince na to ruku.
@@ -18,3 +20,5 @@ Zatím Karkulka běhala po květinách, a když jich měla tolik, že už nemohl
 Když vlk svou žravost upokojil lehl si do postele, usnul a začal nadmíru chrápati. Šel pak tam právě myslivec mimo a myslel si: „Jak by mohla stará ženská tak chrápati? musím se podívat, co to je.“
 
 Vstoupil do pokoje a pohlédl do postele, tam ležel vlk. „Našel jsem tě konečně, starý lupiči!“ řekl, „již dávno tě hledám.“ Již chtěl pušku přiložit, ale pomyslil si, jestli vlk babičku nesežral, že by ji bylo možno ještě zachránit. Proto nestřelil, ale vzal nůžky a spícímu vlku počal párat břicho. Když několikrát střihnul, vidí Červenou karkulku, a ještě několikrát stříhnul, až vyskočila Červená karkulka a volala: „Ó jak bylo mi úzko a jaká tma byla ve vlkově břichu!“ A potom přišla také stará babička ještě živá ven, ale ledva mohla dýchat. Karkulka teď běžela pro veliké kameny, těmi naplnili vlkovi břicho, a když se vzbudil, chtěl rychle vyskočit a uprchnouti, ale kameny byly tak těžké, že padl na zem a do smrti se zabil. Z toho měli všichni tři radost, myslivec vzal si vlčí kůži, babička snědla koláč a vypila víno, které jí Karkulka přinesla a tím se zas posilnila. Karkulka pak si myslila: „Jak živa se už neuchýlím z cesty do lesa, jak to maminka kázala!“
+
+</section>

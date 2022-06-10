@@ -2,16 +2,17 @@
 title: Tiráž
 ---
 
+<section>  
 Karel Jaromír Erben  
 Pohádky  
+</section>  
+<section>  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla Pohádky tak, jak bylo vydáno v nakladatelství Jana Hladkého v roce 1920 (Eben, Karel Jaromír. Pohádky: výbor. Praha : Jan Hladký, 1920. 94 s.).
-
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -23,8 +24,10 @@ Text díla (Karel Jaromír Erben: Pohádky), publikovaného Městskou knihovnou 
 
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
+</section>
+
 ***
 
 Citační záznam této e-knihy:
 
-Eben, Karel Jaromír. Pohádky \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 12. 5. 2022]. Dostupné z: <next-book-url>
+Eben, Karel Jaromír. Pohádky \[online\]. v MKP 1. vyd. Praha : Městská knihovna v Praze, 2011 \[cit. 10. 6. 2022]. Dostupné z: <next-book-url>
