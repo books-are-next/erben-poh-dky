@@ -7,8 +7,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pohadky-karel-jaromir-erben-5e305f8",
-  "revision": "5e305f8",
+  "identifier": "pohadky-karel-jaromir-erben-6ce5931",
+  "revision": "6ce5931",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -36,8 +36,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:53:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157223822
+    "date": "Tue Jun 14 2022 23:23:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655249023380
   },
   "documents": [
     {
@@ -649,9 +649,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 850,
-      "ideas": 13,
+      "words": 139,
+      "chars": 1025,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0025.html",
@@ -669,9 +669,9 @@
   ],
   "totals": {
     "all": {
-      "words": 26532,
-      "chars": 147855,
-      "ideas": 248
+      "words": 26551,
+      "chars": 148030,
+      "ideas": 249
     },
     "chapters": {
       "words": 26406,
